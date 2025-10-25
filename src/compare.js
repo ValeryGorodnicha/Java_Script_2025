@@ -1,0 +1,12 @@
+const g=5;
+const i='10';
+const f=true;
+console.log(g==i);
+console.log(g==f);
+console.log(g!=i);
+console.log(g!=f);
+console.log(g>i);
+console.log(g<i);
+console.log(g>f);
+console.log(g<f);
+console.log('як прикольно получається!!');
